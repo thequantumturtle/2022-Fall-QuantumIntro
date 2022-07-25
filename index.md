@@ -52,7 +52,7 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 [**Day 11**](syllabus/11-Quantum-Search.html) (10/03): Quantum Search  
 [**Day 12**](syllabus/) (10/05): Guest Lecturer - TBD  
 [**Day 13**](syllabus/12-Shors.html) (10/10): Shor's Factoring Algorithm  
-[**Day 14**](syllabus/) (10/10): Advanced Topics  
+[**Day 14**](syllabus/) (10/12): Advanced Topics  
 
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
