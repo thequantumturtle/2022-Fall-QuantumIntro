@@ -1,6 +1,6 @@
 ---
 week: 7
-day: November 08
+day: September 19
 title: Amplitude Amplification
 --- 
 

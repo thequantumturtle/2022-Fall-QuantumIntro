@@ -1,6 +1,6 @@
 ---
 week: 6
-day: November 03
+day: September 14
 title: Quantum Arithmetic
 ---
 

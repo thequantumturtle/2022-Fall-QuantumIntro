@@ -1,6 +1,6 @@
 ---
 week: 3
-day: October 25
+day: September 05
 title: Two Qbits Are Better Than One
 ---
 
