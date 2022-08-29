@@ -10,10 +10,10 @@ menuPosition: 1
 
 Mondays and Wednesdays (6:40pm to 8:00pm @ 3SC 265)   
 [Daniel Justice](https://thequantumturtle.github.io/)
-
+### TA: <a href="https://r0cketr1kky.github.io/" target="_blank">Rakshit Naidu</a>
 
 ## Location
-We currently have a room at 3SC 265. I will be going in person as well as streaming via Zoom (Link on Piazza). I encourage you to come to class if it falls within your personal risk management system. 
+Class room is at 3SC 265. The class is in person but will also be streamed via Zoom (Link on Piazza). I encourage you to come to class if it falls within your personal risk management system. 
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 

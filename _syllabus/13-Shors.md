@@ -9,4 +9,4 @@ The algorithm that started it all! Well, not really. But it is probably what put
 
 
 ### Notes
-- Reminder the bring your class to computer.
+- Reminder to bring your computer to class.
